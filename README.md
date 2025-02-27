@@ -1,5 +1,7 @@
 <h1> Galeria de Imagens - Carrossel </h1>
 
+<h2> 📋 Descrição </h2>
+
 Este projeto implementa uma galeria de imagens com um carrossel interativo, utilizando HTML, CSS e JavaScript. O carrossel exibe imagens que se movem de forma contínua, com efeitos de transição aplicados, como o efeito de escala e a troca de saturação de imagens ao passar o mouse sobre elas.
 
 ![Imagem do projeto](https://github.com/danielly-pedrini/Galeria-de-Imagens/blob/main/assets/Imagem%20README.PNG?raw=true)
